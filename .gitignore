@@ -1,0 +1,17 @@
+# Maven compiled output
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+dependency-reduced-pom.xml
+
+# IntelliJ IDEA local files
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Windows/OS logs
+Thumbs.db
+ehthumbs.db
